@@ -1,0 +1,16 @@
+.DS_Store
+
+logs/*
+
+*.pyc
+*__pycache__*
+
+visualization.search.png
+visualization.push.png
+visualization.grasp.png
+
+*.pth
+*.pth.tar
+
+light_weight_refinenet/build/
+light_weight_refinenet/src/miou_utils.c

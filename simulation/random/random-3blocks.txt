@@ -1,0 +1,10 @@
+red
+block
+orange
+block
+yellow
+green
+block
+blue
+indigo
+violet
